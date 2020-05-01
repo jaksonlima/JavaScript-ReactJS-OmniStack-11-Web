@@ -1,3 +1,3 @@
 ## Front
 
-Html, Css
+Html, Css, styled-components, react-icons
